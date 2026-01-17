@@ -68,10 +68,10 @@ This project supports SDG 8 by:
 
 ## 🚀 Deployment
 - **Hugging Face Space (Live Demo):**  
-  👉 `PASTE YOUR HUGGING FACE SPACE LINK HERE`
+  👉 `https://huggingface.co/spaces/ammusabu/ai-interview-question-generator`
 
 - **GitHub Repository:**  
-  👉 `PASTE YOUR GITHUB REPOSITORY LINK HERE`
+  👉 `https://github.com/Ammusabu/AI-Interview-Question-Generator-`
 
 ---
 
